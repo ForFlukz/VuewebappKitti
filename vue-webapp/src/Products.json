@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Fender",
+    "detail": "Fender Player Plus Stratocaster",
+    "coverimage": "/src/img/Fender.jpg",
+    "price": "35,100฿"
+  },
+  {
+    "id": 2,
+    "name": "Ibanez",
+    "detail": "กีตาร์ไฟฟ้า Ibanez RG1XXV-FYE ",
+    "coverimage": "/src/img/Ibanez.jpg",
+    "price": "45,000฿"
+  },
+  {
+    "id": 3,
+    "name": "Gibson",
+    "detail": "Gibson 1959 ES-335 Dot Reissue",
+    "coverimage": "/src/img/Gibson.jpg",
+    "price": "198,000฿"
+  },
+  {
+    "id": 4,
+    "name": "Yamaha",
+    "detail": "YAMAHA PACIFICA012 Electric Guitar",
+    "coverimage": "/src/img/Yamaha.jpg",
+    "price": "7,200฿"
+  },
+  {
+    "id": 5,
+    "name": "Mentreel",
+    "detail": "Mentreel S20 D-NS EQ T-13D",
+    "coverimage": "/src/img/Mentreel.jpg",
+    "price": "$4,200฿"
+  },
+  {
+    "id": 6,
+    "name": "Gusta",
+    "detail": "Gusta Mini 3E II Acoustic Guitar",
+    "coverimage": "/src/img/Gusta.jpg",
+    "price": "3,870฿"
+  },
+  {
+    "id": 7,
+    "name": "Blackstar",
+    "detail": "Blackstar Carry On ST Bass",
+    "coverimage": "/src/img/Blackstar.jpg",
+    "price": "7,560฿"
+  },
+  {
+    "id": 8,
+    "name": "Ibanez",
+    "detail": "กีตาร์เบสไฟฟ้า Ibanez GSR320-BK",
+    "coverimage": "/src/img/Ibanezbass.jpg",
+    "price": "$7,900฿"
+  },
+  {
+    "id": 9,
+    "name": "Yamaha",
+    "detail": " กีต้าโปร่ง Yamaha F310",
+    "coverimage": "/src/img/yamaha2.jpg",
+    "price": "4,200฿"
+  },
+  {
+    "id": 10,
+    "name": "Roland",
+    "detail": "Roland E-X10 Arranger Keyboard",
+    "coverimage": "/src/img/Roland.jpg",
+    "price": "7,200฿"
+  }
+]
